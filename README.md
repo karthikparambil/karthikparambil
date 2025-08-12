@@ -40,7 +40,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://portswigger.net/burp/images/burp-suite.svg" alt="Burp Suite" width="50" height="50">
   </a>
   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://www.metasploit.com/assets/metasploit-logo.svg" alt="Metasploit" width="50" height="50">
+    <img src="[https://www.metasploit.com/assets/metasploit-logo.svg](https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg)" alt="Metasploit" width="50" height="50">
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="50" height="50">
@@ -58,10 +58,10 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLmap" width="50" height="50">
   </a>
   <a href="https://hashcat.net/hashcat/" target="_blank">
-    <img src="https://hashcat.net/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="50" height="50">
+    <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="50" height="50">
   </a>
   <a href="https://www.maltego.com/" target="_blank">
-    <img src="https://www.maltego.com/wp-content/uploads/2023/04/cropped-maltego-icon-512px-1-192x192.png" alt="Maltego" width="50" height="50">
+    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego" width="50" height="50">
   </a>
   <a href="https://www.aircrack-ng.org/" target="_blank">
     <img src="https://www.aircrack-ng.org/images/logo.png" alt="Aircrack-ng" width="50" height="50">
