@@ -34,7 +34,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50">
   </a>
   <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-    <img src="https://www.kali.org/tools/thc-hydra/images/thc-hydra-logo.svg" alt="Hydra" width="50" height="50">
+    <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" width="50" height="50">
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
     <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="50" height="50">
