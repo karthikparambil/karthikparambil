@@ -25,7 +25,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 - **Tools & Frameworks:**  
   ## 🛠 Tools & Frameworks  
 
-![Nmap Logo](https://www.google.com/imgres?q=nmap%20logo%20png&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F73%2FLogo_nmap.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_nmap.png&docid=hpgHGAcLRCPDqM&tbnid=n6NL9IC8fgEr6M&vet=12ahUKEwiugLyowoSPAxVUzDgGHY-gPX8QM3oECBkQAA..i&w=336&h=180&hcb=2&ved=2ahUKEwiugLyowoSPAxVUzDgGHY-gPX8QM3oECBkQAA)  ![Burp Suite Logo]( )  ![Metasploit Logo]( )  ![Wireshark Logo]( )  ![Hydra Logo]( )  
+![Nmap Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fdownpngs%2Fiohiobh_sitelogo-nmap-zenmap-icon-clipart%2F&psig=AOvVaw1tGS2FtjCZkcoLpvgkTP9v&ust=1755062199664000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCkvNfChI8DFQAAAAAdAAAAABAE)  ![Burp Suite Logo]( )  ![Metasploit Logo]( )  ![Wireshark Logo]( )  ![Hydra Logo]( )  
 ![John the Ripper Logo]( )  ![Gobuster Logo]( )  ![Nikto Logo]( )  ![SQLmap Logo]( )  
 
 - **Programming/Scripting:** Python, Bash, C++
