@@ -24,10 +24,50 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 - **Forensics:** File & Memory Analysis, Steganography, Incident Response  
 - **Tools & Frameworks:**  
   ## 🛠 Tools & Frameworks  
+## 🛠 Tools & Frameworks
 
-![Kali](https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png) <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap Logo" width="50">
- ![Nmap Logo]()  ![Burp Suite Logo]( )  ![Metasploit Logo]( )  ![Wireshark Logo]( )  ![Hydra Logo]( )  
-![John the Ripper Logo]( )  ![Gobuster Logo]( )  ![Nikto Logo]( )  ![SQLmap Logo]( )  
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50">
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50">
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+    <img src="https://www.kali.org/tools/thc-hydra/images/thc-hydra-logo.svg" alt="Hydra" width="50" height="50">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://portswigger.net/burp/images/burp-suite.svg" alt="Burp Suite" width="50" height="50">
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://www.metasploit.com/assets/metasploit-logo.svg" alt="Metasploit" width="50" height="50">
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="50" height="50">
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank">
+    <img src="https://www.openwall.com/john/gfx/john-logo.svg" alt="John the Ripper" width="50" height="50">
+  </a>
+  <a href="https://github.com/OJ/gobuster" target="_blank">
+    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Gobuster" width="50" height="50">
+  </a>
+  <a href="https://cirt.net/Nikto2" target="_blank">
+    <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="Nikto" width="50" height="50">
+  </a>
+  <a href="http://sqlmap.org/" target="_blank">
+    <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLmap" width="50" height="50">
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank">
+    <img src="https://hashcat.net/hashcat/images/hashcat-logo.svg" alt="Hashcat" width="50" height="50">
+  </a>
+  <a href="https://www.maltego.com/" target="_blank">
+    <img src="https://www.maltego.com/wp-content/uploads/2023/04/cropped-maltego-icon-512px-1-192x192.png" alt="Maltego" width="50" height="50">
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank">
+    <img src="https://www.aircrack-ng.org/images/logo.png" alt="Aircrack-ng" width="50" height="50">
+  </a>
+</p>
+
 
 - **Programming/Scripting:** Python, Bash, C++
 
