@@ -81,8 +81,8 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 ---
 
 ## 📫 Connect With Me  
-- 💼 <a href="www.linkedin.com/in/karthikparambil9" >Linkedin</a>
-- 📧 **Email:** karthikparambil9@gmail.com  
+- 💼 <a href="www.linkedin.com/karthikparambil9" >Linkedin</a>
+- 📧 <a href="karthikparambil9@gmail.com">Email</a>  
 - 🌐 <a href="#" >Portfolio<a/>  
 
 ---
