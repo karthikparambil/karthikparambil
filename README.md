@@ -46,7 +46,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="50" height="50">
   </a>
   <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://www.openwall.com/john/gfx/john-logo.svg" alt="John the Ripper" width="50" height="50">
+    <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="50" height="50">
   </a>
   <a href="https://github.com/OJ/gobuster" target="_blank">
     <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Gobuster" width="50" height="50">
