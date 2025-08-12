@@ -25,7 +25,8 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 - **Tools & Frameworks:**  
   ## 🛠 Tools & Frameworks  
 
-![Kali](https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png) ![Nmap Logo]()  ![Burp Suite Logo]( )  ![Metasploit Logo]( )  ![Wireshark Logo]( )  ![Hydra Logo]( )  
+![Kali](https://www.kali.org/docs/policy/trademark/kali-dragon-tm.png) <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap Logo" width="50">
+ ![Nmap Logo]()  ![Burp Suite Logo]( )  ![Metasploit Logo]( )  ![Wireshark Logo]( )  ![Hydra Logo]( )  
 ![John the Ripper Logo]( )  ![Gobuster Logo]( )  ![Nikto Logo]( )  ![SQLmap Logo]( )  
 
 - **Programming/Scripting:** Python, Bash, C++
