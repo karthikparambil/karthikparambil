@@ -66,6 +66,12 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
   <a href="https://www.aircrack-ng.org/" target="_blank">
     <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" width="50" height="50">
   </a>
+  <a href="#" target="_blank">
+    <img src="https://www.kali.org/tools/legion/images/legion-logo.svg" alt="Aircrack-ng" width="50" height="50">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" alt="Aircrack-ng" width="50" height="50">
+  </a>
 </p>
 
 
