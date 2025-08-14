@@ -43,7 +43,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="50" height="50">
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="50" height="50">
+    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="50" height="50">
   </a>
   <a href="https://www.openwall.com/john/" target="_blank">
     <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John the Ripper" width="50" height="50">
