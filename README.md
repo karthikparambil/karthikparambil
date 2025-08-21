@@ -1,3 +1,4 @@
+<img align="center" src="https://raw.githubusercontent.com/Finestwork/Finestwork/output/snake.svg" alt="Snake animation" />
 # 👋 Hey there, I'm Karthik  
 
 🔒 **Cybersecurity Researcher | Penetration Tester | CTF Player**  
