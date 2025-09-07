@@ -19,13 +19,13 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 
 ---
 
-## ⚡ Technical Skillset  
+## ⚡ Technical Skills 
 - **Offensive Security:** Penetration Testing, Red Team Operations, Exploit Development  
 - **Web Security:** OWASP Top 10, API Security, Bug Hunting  
 - **Network Security:** Vulnerability Assessment, Protocol Analysis  
 - **Forensics:** File & Memory Analysis, Steganography, Incident Response  
 - **Tools & Frameworks:**  
-  ## 🛠 Tools & Frameworks  
+
 ## 🛠 Tools & Frameworks
 
 <p align="left">
