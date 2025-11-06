@@ -85,18 +85,6 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 ---
 
 ## 📫 Connect With Me  
-## GitHub Stats
-
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=6&theme=radical)
-
-### Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/karthikparambil9/)
 - 📧 <a href="karthikparambil9@gmail.com">Email</a>  
 - 🌐 <a href="#" >Portfolio<a/>  
