@@ -7,7 +7,10 @@ I’m passionate about exploring the depths of cybersecurity, uncovering vulnera
 My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
 
 ---
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="150" style="margin-right: 20px;">
 
+<div
 ## 🛡 About Me  
 - **Role:** Cybersecurity Researcher & Pentester  
 -  **Focus Areas:** Offensive Security, CTF Challenges  
@@ -15,7 +18,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 -  **Expertise:** Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
 -  **Learning:** Advanced web exploitation, vulnerability research, and automation scripts for security testing  
 -  **Sharing Knowledge:** Documenting tools, techniques, and methodologies on GitHub
-
+</div></div>
 ---
 
 ## Technical Skills 
