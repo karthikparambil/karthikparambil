@@ -10,14 +10,16 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="150" style="margin-right: 20px;">
 
-<div
-## 🛡 About Me  
+<div>
+  
+##  About Me  
 - **Role:** Cybersecurity Researcher & Pentester  
 -  **Focus Areas:** Offensive Security, CTF Challenges  
 -  **CTF Player:** Actively participating in Capture The Flag competitions  
 -  **Expertise:** Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
 -  **Learning:** Advanced web exploitation, vulnerability research, and automation scripts for security testing  
 -  **Sharing Knowledge:** Documenting tools, techniques, and methodologies on GitHub
+  
 </div></div>
 ---
 
@@ -80,9 +82,9 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 
 ---
 
-## 🚀 Projects & Contributions  
-- 🛠 **Custom CTF Challenges** — Forensics, Steganography, Web Exploitation  
-- 🔍 **Security Tools** — Scripts & utilities for automating recon and exploitation  
+##  Projects & Contributions  
+-  **Custom CTF Challenges** — Forensics, Steganography, Web Exploitation  
+-  **Security Tools** — Scripts & utilities for automating recon and exploitation  
 - 📦 **Open-Source Contributions** — Sharing knowledge and resources for the security community  
 
 ---
