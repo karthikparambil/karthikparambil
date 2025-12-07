@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Karthik  
 
- **Cybersecurity Researcher | Penetration Tester | CTF Player**  
+ ### **Cybersecurity Researcher | Penetration Tester | CTF Player**  
 
 I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
 My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
