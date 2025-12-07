@@ -7,21 +7,30 @@ I’m passionate about exploring the depths of cybersecurity, uncovering vulnera
 My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
 
 ---
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="150" style="margin-right: 20px;">
+
 
 <div>
-  
-##  About Me  
-- **Role:** Cybersecurity Researcher & Pentester  
--  **Focus Areas:** Offensive Security, CTF Challenges  
--  **CTF Player:** Actively participating in Capture The Flag competitions  
--  **Expertise:** Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
--  **Learning:** Advanced web exploitation, vulnerability research, and automation scripts for security testing  
--  **Sharing Knowledge:** Documenting tools, techniques, and methodologies on GitHub
-  
-</div></div>
----
+<div >
+  <table>
+    
+  ### About Me
+  <td width="60%">   
+
+
+- **Role**: Cybersecurity Researcher & Pentester  
+- **Focus Areas**: Offensive Security, CTF Challenges  
+- **CTF Player**: Actively participating in Capture The Flag competitions  
+- **Expertise**: Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
+- **Learning**: Advanced web exploitation, vulnerability research, and automation scripts for security testing  
+- **Sharing Knowledge**: Documenting tools, techniques, and methodologies on GitHub  
+  </td>
+      <td width="40%">
+        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Karthik's Profile" width="300" />
+      </td>
+    
+  </table>
+</div>
+
 
 ## Technical Skills 
 - **Offensive Security:** Penetration Testing, Red Team Operations, Exploit Development  
