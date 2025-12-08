@@ -104,7 +104,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
     <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60">
   </a>
    <a href="#" target="_blank">
-    <img src="" alt="c++" width="50" height="50">
+    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="c++" width="50" height="50">
   </a>
 </p>
 
