@@ -7,7 +7,7 @@
     
   ## About Me
    I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
-My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
+My work spans **ethical hacking**, **offensive security**, and **digital forensics** with a current focus on **Web Application Security** and related fields.
 
   <td width="60%">   
 
@@ -111,14 +111,14 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 ##  Projects & Contributions  
 -  **Custom CTF Challenges** — Forensics, Steganography, Web Exploitation  
 -  **Security Tools** — Scripts & utilities for automating recon and exploitation  
-- 📦 **Open-Source Contributions** — Sharing knowledge and resources for the security community  
+-  **Open-Source Contributions** — Sharing knowledge and resources for the security community  
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthikparambil9/)
-- 📧 <a href="karthikparambil9@gmail.com">Email</a>  
-- 🌐 <a href="#" >Portfolio<a/>  
+##  Connect With Me  
+-  [LinkedIn](https://www.linkedin.com/in/karthikparambil9/)
+-  <a href="karthikparambil9@gmail.com">Email</a>  
+-  <a href="#" >Portfolio<a/>  
 
 ---
 
