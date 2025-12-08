@@ -2,18 +2,13 @@
 # 👋 Hey, I'm Karthik  
 
  ### **Cybersecurity Researcher | Penetration Tester | CTF Player**  
-
-I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
-My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
-
----
-
-
 <div>
-<div >
   <table>
     
-  ### About Me
+  ## About Me
+   I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
+My work spans **ethical hacking**, **offensive security**, and **digital forensics** — with a current focus on **Web Application Security** and related fields.
+
   <td width="60%">   
 
 
@@ -25,19 +20,32 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 - **Sharing Knowledge**: Documenting tools, techniques, and methodologies on GitHub  
   </td>
       <td width="40%">
-        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Karthik's Profile" width="300" />
+        <img src="assets/cute_hacker.png" alt="Karthik's Profile" width="300" />
       </td>
     
   </table>
 </div>
 
-
-## Technical Skills 
+<div>
+  <table>
+      <td width="40%">
+        <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Karthik's Profile" width="300" />
+      </td>
+   
+  ## Technical Skills 
+   
+  <td width="60%">   
+   
 - **Offensive Security:** Penetration Testing, Red Team Operations, Exploit Development  
 - **Web Security:** OWASP Top 10, API Security, Bug Hunting  
 - **Network Security:** Vulnerability Assessment, Protocol Analysis  
-- **Forensics:** File & Memory Analysis, Steganography, Incident Response  
+- **Forensics:** File & Memory Analysis, Steganography, Incident Response 
+   
+  </td>
 
+    
+  </table>
+</div>
 
 ## Tools & Frameworks
 
@@ -86,10 +94,19 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
   </a>
 </p>
 
+## **Programming/Scripting**
 
-- **Programming/Scripting:** Python, Bash, C++
-
----
+<p align="left">
+   <a href="#" target="_blank">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="50" height="50">
+  </a>
+   <a href="#" target="_blank">
+    <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" alt="bash" width="60" height="60">
+  </a>
+   <a href="#" target="_blank">
+    <img src="" alt="c++" width="50" height="50">
+  </a>
+</p>
 
 ##  Projects & Contributions  
 -  **Custom CTF Challenges** — Forensics, Steganography, Web Exploitation  
