@@ -17,7 +17,13 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 - **CTF Player**: Actively participating in Capture The Flag competitions  
 - **Expertise**: Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
 - **Learning**: Advanced web exploitation, vulnerability research, and automation scripts for security testing  
-- **Sharing Knowledge**: Documenting tools, techniques, and methodologies on GitHub  
+- **Sharing Knowledge**: Documenting tools, techniques, and methodologies on GitHub
+
+ <div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=karthikparambil&style=for-the-badge)
+
+ </div>
   </td>
       <td width="40%">
         <img src="assets/cute_hacker.png" alt="Karthik's Profile" width="300" />
