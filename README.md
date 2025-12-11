@@ -2,6 +2,15 @@
 # 👋 Hey, I'm Karthik  
 
  ### **Cybersecurity Researcher | Pentester | BugHunter | CTF Player**  
+
+
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikparambil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikparambil9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karthikparambil.github.io/.com/)
+
+
+</div>
 <div>
   <table>
     
