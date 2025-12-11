@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Karthik  
 
- ### **Cybersecurity Researcher | Penetration Tester | CTF Player**  
+ ### **Cybersecurity Researcher | Pentester | BugHunter | CTF Player**  
 <div>
   <table>
     
