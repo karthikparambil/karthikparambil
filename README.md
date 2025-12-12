@@ -127,9 +127,11 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 </p>
 
 ##  Projects & Contributions  
--  **Custom CTF Challenges** — Forensics, Steganography, Web Exploitation  
--  **Security Tools** — Scripts & utilities for automating recon and exploitation  
--  **Open-Source Contributions** — Sharing knowledge and resources for the security community  
+
+-  **CTF Challenges** - Forensics, Web Exploitation, Cryptography
+-  **Machines** - Custom vulnerable Machines for pentesting
+-  **Security Tools** - Scripts & utilities for automating recon and exploitation  
+-  **Open-Source Contributions** - Sharing knowledge and resources for the security community  
 
 ---
 
