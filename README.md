@@ -111,6 +111,8 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 
 ## **Programming/Scripting**
 
+<img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1MjYwNTUsIm5iZiI6MTc2NTUyNTc1NSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjEyVDA3NDkxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ODAzOGY4ZmMyMDljMTU2NDFmMzE2YTJjNjA0ZDU5ZDAyMmUyYzZiOGJjM2M4YWUxOWI3ZWUyNzQ5NmM0NTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CZo3J81GZrDIC59sM2-jFOTqDvuWiG_BUTFZLC-KO0k" align="right" width="200" alt="Logo">
+
 <p align="left">
    <a href="#" target="_blank">
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="50" height="50">
