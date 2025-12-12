@@ -126,10 +126,16 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
   <a href="#" target="_blank">
     <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="70" height="70">
   </a>
-  <a href="#" target="_blank">
-    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="70" height="70">
+   <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html" width="50" height="50">
   </a>
 
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="html" width="50" height="50">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="js" width="50" height="50">
+  </a>
 </p>
 
 ##  Projects & Contributions  
