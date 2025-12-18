@@ -45,7 +45,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 <div>
   <table>
    <td width="40%">
-       <video src="assets/skill.mp4" width="300" muted autoplay loop playsinline></video>
+       <video src="assets/skill.gif" width="300" muted autoplay loop playsinline></video>
    </td>
    
   ## Technical Skills 
