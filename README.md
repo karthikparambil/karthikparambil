@@ -45,7 +45,7 @@ My work spans **ethical hacking**, **offensive security**, and **digital forensi
 <div>
   <table>
    <td width="40%">
-       <image src="assets/skill.gif" width="300" >
+       <image src="assets/skill.gif" width="320" >
    </td>
    
   ## Technical Skills 
