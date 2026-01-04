@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Karthik  
 
- ### **Cybersecurity Researcher | Pentester | BugHunter | CTF Player**  
+ ### **Cybersecurity Researcher | Web Application Pentester | CTF Player**  
 
 
  
