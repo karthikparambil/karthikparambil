@@ -17,7 +17,7 @@
     
   ## About Me
    I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
-My work spans **ethical hacking**, **offensive security**, and **digital forensics** with a current focus on **Web Application Security** and related fields.
+My work spans **ethical hacking**, **network security**, and **offensive security** with a current focus on **Web Application Security** and related fields.
 
   <td width="60%">   
 
