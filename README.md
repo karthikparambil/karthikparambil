@@ -23,7 +23,7 @@ My work spans **ethical hacking**, **network security**, and **offensive securit
 
 
 - **Role**: Cybersecurity Researcher & Pentester  
-- **Focus Areas**: Network Security,Web security and Forensics
+- **Focus Areas**: Network Security and Web security
 - **CTF Player**: Actively participating in Capture The Flag competitions  
 - **Expertise**: Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
 - **Learning**: Advanced web exploitation, vulnerability research, and automation for security testing  
