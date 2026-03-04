@@ -16,6 +16,7 @@
   <table>
     
   ## About Me
+<img src="https://tryhackme-badges.s3.amazonaws.com/karthikparambil.png" alt="Your Image Badge" /><br>
    I’m passionate about exploring the depths of cybersecurity, uncovering vulnerabilities, and building secure systems.  
 My work spans **ethical hacking**, **network security**, and **offensive security** with a current focus on **Web Application Security** and related fields.
 
