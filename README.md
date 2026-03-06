@@ -25,7 +25,7 @@ My work spans **ethical hacking**, **network security**, and **offensive securit
 - **Focus Areas**: Network Security and Web security
 - **CTF Player**: Actively participating in Capture The Flag competitions  
 - **Expertise**: Most tools in ethical hacking (Kali Linux, Burp Suite, Metasploit, Nmap, Wireshark, etc.)  
-- **Learning**: Advanced web exploitation, vulnerability research, and automation for security testing  
+- **Learning**: Advanced web exploitation, Active Directory, vulnerability research, and automation for security testing  
 - **Sharing Knowledge**: Documenting tools, techniques, and methodologies on GitHub
 
  <div align="center">
