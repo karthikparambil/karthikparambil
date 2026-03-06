@@ -1,5 +1,3 @@
-<img src="banner.png" width="100%" height="130">
-
 # 👋 Hey, I'm Karthik  
 
  ### **Cybersecurity Researcher | Pentester | CTF Player**  
