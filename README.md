@@ -147,5 +147,5 @@ My work spans **ethical hacking**, **network security**, and **offensive securit
 ---
 
 
-> 💡 *“Security is not a product, but a process.” — Bruce Schneier*  
+> 💡 *“Security is not a product, but a process.” - Bruce Schneier*  
 
